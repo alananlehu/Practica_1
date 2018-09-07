@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <math.h>
 #include <stdlib.h>
+#include <stdmset.h>
+
 #define RESULTADO 5
 
 int una_resta(int a, int b);
