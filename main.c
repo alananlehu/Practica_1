@@ -6,6 +6,8 @@
 int una_resta(int a, int b);
 float division(float a, float b);
 int una_suma (int a, int b);
+float root(float a, float b);
+
 
 int main ()
 {
